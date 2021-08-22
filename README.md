@@ -14,9 +14,6 @@ Before:
 After running python script:
 ![](Images/rice_fields_green.png)
 
-
-## Acknowledgements
-
 ## License
 MIT License
 
