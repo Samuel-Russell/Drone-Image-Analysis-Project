@@ -17,8 +17,10 @@ After running python script:
 The VARI image analysis script performed the following when given an image containing vegetation captured from a DJI Mavic 2 drone.
 
 Before:
+![](Images/carpark.JPG)
 
 After running python script:
+![](Images/VARI_Blue.png)
 
 
 ## License
