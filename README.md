@@ -14,6 +14,13 @@ Before:
 After running python script:
 ![](Images/rice_fields_green.png)
 
+The VARI image analysis script performed the following when given an image containing vegetation captured from a DJI Mavic 2 drone.
+
+Before:
+
+After running python script:
+
+
 ## License
 MIT License
 
